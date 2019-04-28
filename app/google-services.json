@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408695701575",
+    "firebase_url": "https://vital-935b2.firebaseio.com",
+    "project_id": "vital-935b2",
+    "storage_bucket": "vital-935b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408695701575:android:173b2dc09e627d9d",
+        "android_client_info": {
+          "package_name": "com.aasish.vital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408695701575-tp3or8hg4e5aqemq3fl1pbj16trjb0e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aasish.vital",
+            "certificate_hash": "5b1b1dbd31eacfe91391f9217959f39943646a00"
+          }
+        },
+        {
+          "client_id": "408695701575-kd986kmk4jgb2e3qbg444dnvmdqoo0ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG6XCYWiAqCDgM7gwkUjn5EU82768c40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408695701575-kd986kmk4jgb2e3qbg444dnvmdqoo0ln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408695701575-7dclqgqpjvl10i8oui8vicdph04c2mbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tech.SmartPlantsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
